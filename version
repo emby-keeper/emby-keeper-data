@@ -1,7 +1,7 @@
 idioms.onnx = idioms@v2.onnx
 idioms@latest.onnx = idioms@v2.onnx
-pornemby-common-wl.yaml = pornemby-common-wl@v6.yaml
-pornemby-common-wl@latest.yaml = pornemby-common-wl@v6.yaml
+pornemby-common-wl.yaml = pornemby-common-wl@v7.yaml
+pornemby-common-wl@latest.yaml = pornemby-common-wl@v7.yaml
 digit5-teko.onnx = digit5-teko@v1.onnx
 digit5-teko@latest.onnx = digit5-teko@v1.onnx
 words6.onnx = words6@v1.onnx
