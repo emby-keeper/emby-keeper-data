@@ -28,3 +28,7 @@ goodday-wl.yaml = goodday-wl@v1.yaml
 goodday-wl@latest.yaml = goodday-wl@v1.yaml
 goodnight-wl.yaml = goodnight-wl@v1.yaml
 goodnight-wl@latest.yaml = goodnight-wl@v1.yaml
+uchars4.onnx = uchars4@v1.onnx
+uchars4@latest.onnx = uchars4@v1.onnx
+uchars4.json = uchars4@v1.json
+uchars4@latest.json = uchars4@v1.json
